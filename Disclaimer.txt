@@ -1,0 +1,5 @@
+While running the COVID_19_CODE.ipynb, the results can be varying depending upon the current situations in India. We have tried our best to predict the results as far as in a realistic manner. The graphs demonstrates huge populations and hence should be expanded and zoomed to a very large extent to notice the differences or conclude the observations.
+
+This project is purely based upon the Indian context. The data was researched and referred from the Indian ministries concerning the COVID-19 pandemic.
+
+This project was kind of a research paper and was executed by 3 team members. The names of the team members is written on the Modelling Covid-19 for India.pdf.
